@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "..\\..\\Users\\태권\\OneDrive\\바탕 화면\\overwatch-hero-selector-vanilla-master\\images"
+		},
+		{
+			"name": "overwatch",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "overwatch"
+	}
+}
